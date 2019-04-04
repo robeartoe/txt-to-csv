@@ -1,0 +1,16 @@
+{
+    "name": "txt-to-csv",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+        "text-to-csv": "bin/text-to-csv"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "clui": "^0.3.6",
+        "detect-character-encoding": "^0.7.0",
+        "fast-csv": "^2.4.1",
+        "minimist": "^1.2.0"
+    }
+}
