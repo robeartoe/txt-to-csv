@@ -1,0 +1,6 @@
+*.txt
+*.csv
+node_modules
+*.code-workspace
+TTC.py
+.vscode
